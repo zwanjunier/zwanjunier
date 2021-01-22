@@ -2,6 +2,7 @@
 
 <!--
 **zwanjunier/zwanjunier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+so as per given idea reagarding the github project
 
 Here are some ideas to get you started:
 
